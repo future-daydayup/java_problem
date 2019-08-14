@@ -12,3 +12,6 @@ java所遇到的一些问题笔记,总结
    
    
    3. 二进制文件
+   
+   4. Map集合通过Collections中的list进行排序
+   https://blog.csdn.net/moneyisfrist/article/details/83806883
