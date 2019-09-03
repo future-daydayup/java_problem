@@ -3,3 +3,5 @@ https://www.jianshu.com/p/829180f71893 查看java进程号pid
 
 https://blog.csdn.net/u013378306/article/details/79460279   dos 
 https://www.cnblogs.com/lsgxeva/p/8283662.html
+
+https://blog.csdn.net/nicekwell/article/details/83182876 tee
