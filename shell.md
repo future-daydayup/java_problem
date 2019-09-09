@@ -7,3 +7,4 @@ https://www.cnblogs.com/lsgxeva/p/8283662.html
 https://blog.csdn.net/nicekwell/article/details/83182876 tee
 
 https://docs.oracle.com/javase/7/docs/technotes/tools/windows/classpath.html sun CLASSPTH的设置使用
+http://xstarcd.github.io/wiki/Java/java_classpath_-Djava.ext.dirs.html  java启动时的classpass及扩展类目录
