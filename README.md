@@ -15,3 +15,6 @@ java所遇到的一些问题笔记,总结
    
    4. Map集合通过Collections中的list进行排序
    https://blog.csdn.net/moneyisfrist/article/details/83806883
+   
+   5. 平头哥的技术博文
+   https://blog.csdn.net/z694644032/article/details/100084287
